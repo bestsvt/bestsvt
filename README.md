@@ -13,7 +13,7 @@
 
 ## About Me
 
-I'm a junior software developer who recently graduated from a Full-Stack Software Developer Bootcamp. I have a passion for coding and creating innovative applications that can help make people's lives easier.
+I'm a junior software developer who recently graduated from [TechUp](https://www.techupth.com), a Full-Stack Software Developer Bootcamp. I have a passion for coding and creating innovative applications that can help make people's lives easier.
 
 In my free time, I love to play games and occasionally stream on [Twitch](https://www.twitch.tv/darknezz_th). I find that gaming helps me to relax and unwind after a day of coding.
 
