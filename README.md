@@ -13,7 +13,7 @@
 
 ## About Me
 
-I have been working as a junior Full-Stack Developer for a while now, having successfully transitioned my career from graphic design to development. I graduated from [TechUp](https://www.techupth.com), a Full-Stack Software Developer Bootcamp. I am passionate about coding and enjoy creating innovative applications that can make people's lives easier.
+I have been working as a junior Full-Stack Developer for a while now, having successfully transitioned my career from graphic design to software development. I graduated from [TechUp](https://www.techupth.com), a Full-Stack Software Developer Bootcamp. I am passionate about coding and enjoy creating innovative applications that can make people's lives easier.
 
 In my free time, I love to play games and occasionally stream on [Twitch](https://www.twitch.tv/darknezz_th). I find that gaming helps me to relax and unwind after a day of coding.
 
