@@ -1,11 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+  <br/>
   <a href="https://www.linkedin.com/in/sorachak/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-logo"/></a>
-<a href="https://www.twitch.tv/darknezz_th" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </div>
-
 
 <div id="header" align="center">
 <h1>Hi, I'm Best 👀</h1>
@@ -37,10 +34,6 @@ I'm always looking to learn new technologies and expand my knowledge in the fiel
 
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="logo-photoshop"/><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="logo-premiere-pro"/><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="logo-lightroom"/><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="logo-illustrator"/><img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white" alt="logo-indesign"/>
 
-
-
-
-
 <hr>
 
 ## 🔥 Projects
@@ -50,17 +43,15 @@ I'm always looking to learn new technologies and expand my knowledge in the fiel
 - Description: This is a simple weather app built with React that displays the current weather information for a city entered by the user.
 - Technologies Used: JavaScript, React, Tailwind CSS, etc.
 
-
 #### 📖 [Course Flow](https://github.com/bestsvt/Course-Flow)
 
 - Description: CourseFlow is a web application that allows users to browse, learn, and subscribe courses on various topics. The platform is designed to be user-friendly and easy to navigate, providing a seamless learning experience for users.
 - Technologies Used: React, Node.js, Express, Supabase, etc.
 
-
 <hr>
 
-## 📈 My Stats 
+## 📈 My Stats
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bestsvt&theme=dark&hide_border=true&border_radius=20&mode=weekly&card_width=500) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestsvt&show_icons=true&theme=dark&hide_border=true&border_radius=20)
+![GitHub Streak](https://streak-stats.demolab.com?user=bestsvt&theme=dark&hide_border=true&border_radius=20&mode=weekly&card_width=500)
